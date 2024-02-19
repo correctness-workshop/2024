@@ -132,8 +132,8 @@ Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Ci
 
 ---
 ### <a class="anchor" name="previous">Previous Workshops</a>
-- [Correctness 2021](https://correctness-workshop.github.io/2023/)
-- [Correctness 2021](https://correctness-workshop.github.io/2022/)
+- [Correctness 2023](https://correctness-workshop.github.io/2023/)
+- [Correctness 2022](https://correctness-workshop.github.io/2022/)
 - [Correctness 2021](https://correctness-workshop.github.io/2021/)
 - [Correctness 2020](https://correctness-workshop.github.io/2020/)
 - [Correctness 2019](https://correctness-workshop.github.io/2019/)
