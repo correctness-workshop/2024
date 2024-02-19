@@ -1,16 +1,16 @@
 ---
 layout: template1
-title: Correctness 2022
+title: Correctness 2024
 comments: false
 ---
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>Correctness 2022: Sixth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November 18, 2022 (half day, 8:30am - 12pm CST) </h4></center>
-<center><h4> Kay Bailey Hutchison Convention Center Dallas </h4></center>
-<center><h4> Dallas, Texas, USA </h4></center>
-<center><h5> Held in conjunction with SC22: <a href="https://sc22.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
+<center><h2>Correctness 2024: Seventh International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h4> November XX, 2024 (half day, 8:30am - 12pm CST) </h4></center>
+<center><h4> Georgia World Congress Center, Atlanta </h4></center>
+<center><h4> Atlanta, Georgia, USA </h4></center>
+<center><h5> Held in conjunction with SC24: <a href="https://sc24.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
 <center>
 In cooperation with <br />
 <a href="http://www.computer.org">
@@ -84,24 +84,24 @@ The proceedings will be archived in IEEE Xplore.
 ### <a class="anchor" name="dates"> Important Dates </a>
 
 <!--
-* Paper submissions due: ~~August 9, 2021~~ **Extended:** August 16, 2021
-* Notification of acceptance: September 20, 2021
+* Paper submissions due: TBD
+* Notification of acceptance: TB
 * E-copyright registration completed by authors: TBD
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: ~~August 5, 2022~~ **Extended:** August 12, 2022 (submission updates will be allowed until August 14)
-* Notification of acceptance: September 9, 2022
-* E-copyright registration completed by authors: September 23, 2022
-* Camera-ready papers due: September 30, 2022
+* Paper submissions due: TBD
+* Notification of acceptance: TBD
+* E-copyright registration completed by authors: TBD
+* Camera-ready papers due: TBD
 
 All time zones are AOE.
 
 ---
 ### <a class="anchor" name="date">Workshop Date</a>
 
-- Half-day Workshop
-- November 18, 2022, 8:30am - 12pm CST
+- X-day Workshop
+- November XX, 2022, 8:30am - 12pm CST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
@@ -112,70 +112,19 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-[Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
-[David Bailey](https://cs.ucdavis.edu/directory/david-bailey), LBNL & University of California, Davis, USA <br />
-[Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
-[John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
-[Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
-[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
-[Geoffrey C. Hulette]( http://www.sandia.gov/), Sandia National Laboratories, USA <br /> 
-[Vinu Joseph](https://www.vinujoseph.org/), NVIDIA Corporation, USA <br />
-[Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
-[Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
-[Shyamali Mukherjee](https://dl.acm.org/profile/99659214722), Sandia National Laboratories, USA <br />
-[Samuel	Pollard](https://scholar.google.com/citations?user=X0zJ484AAAAJ&hl=en), Sandia National Laboratories, USA <br />
-[Joachim Protze](https://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Team/~oobd/Joachim-Protze/lidx/1/), RWTH Aachen University, Germany <br />
-[Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
-[Markus Schordan]( https://people.llnl.gov/schordan1), Lawrence Livermore National Laboratory, USA <br />
-[Tristan Vanderbruggen](https://people.llnl.gov/vanderbrugge1), Lawrence Livermore National Laboratory, USA <br />
-<!--
-[Hugo Brunie](https://team.inria.fr/corse/team-members/), INRIA, France <br />
-[Boyana Norris](https://ix.cs.uoregon.edu/~norris/), University of Oregon, USA <br />
-[Tristan Ravitch](https://galois.com/team/tristan-ravitch/), Galois, Inc, USA <br />
--->
+TBD
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
 
-- Kay Bailey Hutchison Convention Center Dallas, Dallas, Texas, USA
-- Room: D167
+- Georgia World Congress Center, Atlanta, Georgia, USA
+- Room: XX
 
 ---
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-<table>
-<tr><td width="15">  </td> <td>8:30am - 8:40am:  Opening remarks    </td> </tr>
-</table>
-
-##### Numerical Correctness (Chair: Mike Lam)
-<table>
-<tr><td width="15">  </td> <td>8:40am - 9:00am:  Paper 1:  <b>"Proposed Consistent Exception Handling for the BLAS and LAPACK"</b>, James Demmel, Jack Dongarra, Mark Gates, Greg Henry, Julien Langou, Xiaoye Li, Piotr Luszczek, Weslley Pereira, Jason Riedy, Cindy Rubio-González </td> </tr>
-<tr><td width="15">  </td> <td>9:00am - 9:20am:  Paper 2: <b>"Towards Verified Rounding-Error Analysis for Stationary Iterative Methods"</b>, Ariel Kellison, Mohit Tekriwal, Jean-Baptiste Jeannin, Geoffrey Hulette </td> </tr>
-</table>
-  
-##### MPI Correctness (Chair: Mike Lam)
-<table>
-<tr><td width="15">  </td> <td>9:20am - 9:40am:  Paper 3: <b>"Static Local Concurrency Errors Detection in MPI-RMA Programs"</b>, Emmanuelle Saillard, Marc Sergent, Célia Tassadit Ait Kaci, Denis Barthou </td> </tr>
-<tr><td width="15">  </td> <td>9:40am - 10:00am:  Paper 4: <b>"On-the-Fly Data Race Detection for MPI RMA Programs with MUST"</b>, Simon Schwitanski, Joachim Jenke, Felix Tomski, Christian Terboven, Matthias S. Müller  </td> </tr>
-</table>
-
-##### Break
-<table>
-<tr><td width="15">  </td> <td> 10:00am - 10:30am:  Break </td> </tr>
-</table>
-
-##### Bug Competition (Chair: Ignacio Laguna)
-<table>
-<tr><td width="15">  </td> <td>10:30am - 11:00am:  <b>"Bug Competition Announcement"</b>, Emmanuelle Saillard </td> </tr>
-</table>
-  
-##### Multithreaded Correctness (Chair: Emmanuelle Saillard)
-<table>
-<tr><td width="15">  </td> <td>11:00am - 11:20am:  Paper 5: <b>"MiniKokkos: A Calculus of Portable Parallelism"</b>, Feiyang Jin, John Jacobson II, Samuel D. Pollard, Vivek Sarkar </td> </tr>
-<tr><td width="15">  </td> <td>11:20am - 11:40am:  Paper 6: <b>"Early Experience with Transformer-Based Similarity Analysis for DataRaceBench"</b>, Winson Chen, Tristan Vanderbruggen, Pei-Hung Lin, Chunhua Liao, Murali Emani </td> </tr>  
-<tr><td width="15">  </td> <td>11:40am - 12:00pm:  Paper 7: <b>"Leveraging the Dynamic Program Structure Tree to Detect Data Races in OpenMP Programs"</b>, Lechen Yu, Feiyang Jin, Joachim Protze, Vivek Sarkar </td> </tr>
-</table>
+TBD
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
@@ -183,6 +132,8 @@ Please address workshop questions to Ignacio Laguna (ilaguna@llnl.gov) and/or Ci
 
 ---
 ### <a class="anchor" name="previous">Previous Workshops</a>
+- [Correctness 2021](https://correctness-workshop.github.io/2023/)
+- [Correctness 2021](https://correctness-workshop.github.io/2022/)
 - [Correctness 2021](https://correctness-workshop.github.io/2021/)
 - [Correctness 2020](https://correctness-workshop.github.io/2020/)
 - [Correctness 2019](https://correctness-workshop.github.io/2019/)
