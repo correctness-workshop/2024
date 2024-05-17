@@ -73,7 +73,7 @@ Submitted papers must represent original unpublished research that is not curren
 
 #### SC Reproducibility Initiative
 
-We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc19.qltdclient.com/submit/reproducibility-initiative/](https://sc22.supercomputing.org/submit/reproducibility-initiative/).
+We encourage authors to submit an **optional** artifact description (AD) appendix along with their paper, describing the details of their software environments and computational experiments to the extent that an independent person could replicate their results. The AD appendix is not included in the 8-page limit of the paper and should not exceed **2 pages** of content. For more details of the **SC Reproducibility Initiative** please see: [https://sc24.supercomputing.org/program/papers/reproducibility-initiative/](https://sc24.supercomputing.org/program/papers/reproducibility-initiative/).
 
 ---
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
@@ -90,10 +90,10 @@ The proceedings will be archived in IEEE Xplore.
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: TBD
-* Notification of acceptance: TBD
-* E-copyright registration completed by authors: TBD
-* Camera-ready papers due: TBD
+* Paper submissions due: July 19, 2024
+* Notification of acceptance: August 23, 2024
+* E-copyright registration completed by authors: September 9, 2024
+* Camera-ready papers due: September 9, 2024
 
 All time zones are AOE.
 
