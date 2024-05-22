@@ -6,7 +6,7 @@ comments: false
 
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
-<center><h2>Correctness 2024: Seventh International Workshop on Software Correctness for HPC Applications</h2></center>
+<center><h2>Correctness 2024: Eighth International Workshop on Software Correctness for HPC Applications</h2></center>
 <center><h4> November XX, 2024 (half day, 8:30am - 12pm CST) </h4></center>
 <center><h4> Georgia World Congress Center, Atlanta </h4></center>
 <center><h4> Atlanta, Georgia, USA </h4></center>
