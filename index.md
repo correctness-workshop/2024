@@ -7,7 +7,7 @@ comments: false
 <img src="img/picture.jpg" alt="Drawing" style="width:1200px;" />
 
 <center><h2>Correctness 2024: Eighth International Workshop on Software Correctness for HPC Applications</h2></center>
-<center><h4> November XX, 2024 (half day, 8:30am - 12pm CST) </h4></center>
+<center><h4> November 18, 2024 (half day, 9:00am - 12:30pm CST) </h4></center>
 <center><h4> Georgia World Congress Center, Atlanta </h4></center>
 <center><h4> Atlanta, Georgia, USA </h4></center>
 <center><h5> Held in conjunction with SC24: <a href="https://sc24.supercomputing.org/">The International Conference for High Performance Computing, Networking, Storage and Analysis</a> </h5></center>
@@ -100,8 +100,8 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="date">Workshop Date</a>
 
-- X-day Workshop
-- November XX, 2022, 8:30am - 12pm CST
+- Half-day Workshop
+- November 18, 2024, 9:00am - 12:30pm EST
 
 ---
 ### <a class="anchor" name="org">Organizers</a>
@@ -118,7 +118,7 @@ TBD
 ### <a class="anchor" name="venue">Venue</a>
 
 - Georgia World Congress Center, Atlanta, Georgia, USA
-- Room: XX
+- Room: TBD
 
 ---
 ### <a class="anchor" name="program">Program</a>
