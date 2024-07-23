@@ -87,6 +87,8 @@ mandatory to ensure reproducibility.
 
 More information on the website: [https://sites.google.com/view/hpc-bugs-fest/home](https://sites.google.com/view/hpc-bugs-fest/home)
 
+Bug Fest papers should be submitted electronically in the Short Papers form at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
+
 ----
 
 ###  <a class="anchor" name="proceedings"> Proceedings </a>
@@ -125,7 +127,22 @@ All time zones are AOE.
 ---
 ### <a class="anchor" name="pc">Program Committee</a>
 
-TBD
+[Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA <br />
+[Allison H. Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA <br />
+[John Baugh](https://www.ccee.ncsu.edu/people/jwb/), North Carolina State University, USA <br />
+[Patrick Carribault](http://www.cea.fr/), CEA-DAM, France  <br />
+[Ganesh Gopalakrishnan](https://www.cs.utah.edu/~ganesh/), University of Utah, USA <br />
+[Jan Hueckelheim](https://www.anl.gov/profile/jan-huckelheim), Argonne National Laboratory, USA <br />
+[Michael O. Lam](https://w3.cs.jmu.edu/lam2mo/), James Madison University, USA <br />
+[Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
+[Matthias S Mueller](https://www.i12.rwth-aachen.de/cms/lehrstuhl-fuer-hochleistungsrechnen-inf/der-lehrstuhl/team/hochleistungsrechnen/~osdf/prof-dr-rer-nat-matthias-s-mueller/?allou=1), RWTH Aachen University, Germany <br />
+[Erdal Mutlu](https://www.pnnl.gov/people/erdal-mutlu), Pacific Northwest National Laboratory, USA <br />
+[Pavel Panchekha](https://pavpanchekha.com/), University of Utah, USA
+[Samuel	Pollard](https://scholar.google.com/citations?user=X0zJ484AAAAJ&hl=en), Sandia National Laboratories, USA <br />
+[Balthasar Reuter](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/balthasar-reuter), uropean Centre for Medium-Range Weather Forecasts, UK <br />
+[Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
+[Matt Sottile](https://scholar.google.com/citations?user=q6Z0FZMAAAAJ&hl=en), Lawrence Livermore National Laboratory, USA <br />
+[Mohit Tekriwal](https://mohittkr.github.io/), Lawrence Livermore National Laboratory, USA <br />
 
 ---
 ### <a class="anchor" name="venue">Venue</a>
