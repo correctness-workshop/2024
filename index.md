@@ -137,7 +137,7 @@ All time zones are AOE.
 [Jackson Mayo](http://www.sandia.gov/), Sandia National Laboratories, USA <br />
 [Matthias S Mueller](https://www.i12.rwth-aachen.de/cms/lehrstuhl-fuer-hochleistungsrechnen-inf/der-lehrstuhl/team/hochleistungsrechnen/~osdf/prof-dr-rer-nat-matthias-s-mueller/?allou=1), RWTH Aachen University, Germany <br />
 [Erdal Mutlu](https://www.pnnl.gov/people/erdal-mutlu), Pacific Northwest National Laboratory, USA <br />
-[Pavel Panchekha](https://pavpanchekha.com/), University of Utah, USA
+[Pavel Panchekha](https://pavpanchekha.com/), University of Utah, USA <br />
 [Samuel	Pollard](https://scholar.google.com/citations?user=X0zJ484AAAAJ&hl=en), Sandia National Laboratories, USA <br />
 [Balthasar Reuter](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/balthasar-reuter), uropean Centre for Medium-Range Weather Forecasts, UK <br />
 [Emmanuelle Saillard](http://emmanuellesaillard.fr/), INRIA Bordeaux, France  <br />
