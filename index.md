@@ -105,7 +105,7 @@ The proceedings will be archived in IEEE Xplore.
 * Camera-ready papers due: TBD
 -->
 
-* Paper submissions due: ~~July 19, 2024~~ August 2, 2024
+* Paper submissions due: ~~July 19, 2024~~ ~~August 2, 2024~~ **Extended:** August 8, 2024
 * Notification of acceptance: ~~August 23, 2024~~ September 6, 2024
 * E-copyright registration completed by authors: ~~September 9, 2024~~ September 27, 2024
 * Camera-ready papers due: ~~September 9, 2024~~ September 27, 2024
