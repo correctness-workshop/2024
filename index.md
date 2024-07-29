@@ -69,7 +69,7 @@ Authors are invited to submit manuscripts in English structured as technical or 
 <!--Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore via TCHPC.-->
 Submitted papers will be peer-reviewed by the Program Committee and accepted papers will be published by IEEE Xplore.
 
-Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
+Submitted papers must represent original unpublished research that is not currently under review for any other venue. Papers not following these guidelines will be rejected without review. Submissions received after the due date, exceeding length limit, or not appropriately structured may also not be considered. At least one author of an accepted paper must register for and attend the workshop. Authors may contact the workshop organizers for more information. Papers should be submitted electronically at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/). Please use the "Correctness" form (the "Correctness Short Papers" form is for HPC Bug Fest papers only).
 
 #### SC Reproducibility Initiative
 
@@ -87,7 +87,7 @@ mandatory to ensure reproducibility.
 
 More information on the website: [https://sites.google.com/view/hpc-bugs-fest/home](https://sites.google.com/view/hpc-bugs-fest/home)
 
-Bug Fest papers should be submitted electronically in the Short Papers form at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
+HPC Bug Fest papers must be submitted electronically using the "Correctness Short Papers" form at: [https://submissions.supercomputing.org/](https://submissions.supercomputing.org/).
 
 ----
 
