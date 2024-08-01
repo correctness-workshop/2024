@@ -11,7 +11,7 @@ gems:
 #baseurl: "/projectname"
 url: "https://correctness-workshop.github.io/2024"
 enforce_ssl: ""
-baseurl: "/2023"
+baseurl: "/2024"
 
 # Title of website
 title: Correctness 2024
