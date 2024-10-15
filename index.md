@@ -149,13 +149,71 @@ All time zones are AOE.
 ### <a class="anchor" name="venue">Venue</a>
 
 - Georgia World Congress Center, Atlanta, Georgia, USA
-- Room: TBD
+- Room: B315
 
 ---
 ### <a class="anchor" name="program">Program</a>
 <br />
 
-TBD
+#### Workshop Introduction
+<table>
+<tr><td width="15">  </td> <td>9:am - 9:09am:  <b>Opening Remarks</b>, Ignacio Laguna, Cindy Rubio-González </td> </tr>
+</table>
+
+#### Numerical Correctness and Optimization (Chair: TBD)
+<table>
+<tr><td width="15">  </td> <td>2:20pm - 2:40pm:  Paper 1:  <b>"The Fused Multiply-Add and Global Atmospheric Models: A Distributional Investigation into a Surprising Correctness Scenario"</b>, Teo Price-Broncucia, Allison H. Baker, Michael Duda </td> </tr>
+
+<tr><td width="15">  </td> <td>2:40pm - 3:00pm:  Paper 2: <b>"Toward Automated Precision Tuning of Weather and Climate Models: A Case Study"</b>, Jackson Vanover, Alper Altuntas, Cindy Rubio-González </td> </tr>
+
+<tr><td width="15">  </td> <td>2:40pm - 3:00pm:  Paper 3: <b>"Towards Verifying Exact Conditions for Implementations of Density Functional Approximations"</b>, Sameerah Helal, Zhe Tao, Cindy Rubio-González, Francois Gygi, Aditya V. Thakur </td> </tr>
+</table>
+
+#### Break
+<table>
+<tr><td width="15">  </td> <td> 3:00pm - 3:30pm:  Break </td> </tr>
+</table>
+
+#### Reproducibility and Portability (Chair: TBD)
+<table>
+
+<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 4: <b>"Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications"</b>, Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Oscar Hernandez, Mark Coletti, Ada Sedova </td> </tr>
+
+<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 5: <b>"Toward Automated Detection of Portability Bugs in Kokkos Parallel Programs"</b>, Vivek KaleHanru Yan, Shyamali Mukherjee, Jackson Mayo, Keita Teranishi, Richard Rutledge, Alessandro Orso </td> </tr>
+</table>
+
+#### OpenMP Correctness (Chair: TBD)
+<table>
+<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 6: <b>"Facilitating Bug Detection for OpenMP Offloading Applications"</b>, Lechen Yu, Feiyang Jin, Joachim Jenke, Vivek Sarkar</td> </tr>
+
+<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 7: <b>"ompTest – Unit Testing with OMPT"</b>, Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman </td> </tr>
+</table>
+
+#### Data Races (Chair: TBD)
+<table>
+<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 8: <b>"Compiler-Aided Correctness Checking of CUDA-Aware MPI Applications"</b>, Alexander Hück, Tim Ziegler, Simon Schwitanski, Joachim Jenke, Christian Bischof</td> </tr>
+
+<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 9: <b>"Taskgrind: Heavyweight Dynamic Binary Instrumentation for Parallel Programs Analysis"</b>, Romain Pereira, George Stelle, Patrick Carribault</td> </tr>
+</table>
+
+
+#### HPC Bugs Fest - Short Papers (Chair: Emmanuelle Saillard)
+<table>
+<tr><td width="15">  </td> <td>4:30pm - 4:42pm:  Paper 1: <b>"Towards Correctness Checking of MPI Partitioned Communication in MUST"</b>,
+       Simon Schwitanski, Niko Sakic, Joachim Jenke, Felix Tomski, Marc-André Hermanns</td> </tr>
+
+<tr><td width="15">  </td> <td>4:42pm - 4:54pm:  Paper 2: <b>"Adding Microbenchmarks with SIMD Data Race to DataRaceBench"</b>,
+      Joachim Jenke, Kaloyan Ignatov, Simon Schwitanski</td> </tr>
+
+<tr><td width="15">  </td> <td>4:54pm - 5:06pm:  Paper 3: <b>"Investigating the Real-World Applicability of MPI Correctness Benchmarks"</b>,
+      Alexander Hück, Tim Jammer, Joachim Jenke, Christian Bischof</td> </tr>
+
+<tr><td width="15">  </td> <td>5:06pm - 5:18pm:  Paper 4: <b>"Improve and stabilize classification results of DataRaceBench"</b>,
+      Joachim Jenke, Simon Schwitanski</td> </tr>
+
+<tr><td width="15">  </td> <td>5:18pm - 5:30pm:  Paper 5: <b>"Highlighting PARCOACH Improvements on MBI"</b>,
+      Philippe Virouleau, Emmanuelle Saillard, Marc Sergent, Pierre Lemarinier</td> </tr>
+</table>
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
