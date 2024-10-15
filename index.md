@@ -162,50 +162,50 @@ All time zones are AOE.
 
 #### Numerical Correctness and Optimization (Chair: TBD)
 <table>
-<tr><td width="15">  </td> <td>2:20pm - 2:40pm:  Paper 1:  <b>"The Fused Multiply-Add and Global Atmospheric Models: A Distributional Investigation into a Surprising Correctness Scenario"</b>, Teo Price-Broncucia, Allison H. Baker, Michael Duda </td> </tr>
+<tr><td width="15">  </td> <td>9:09am - 9:26am:  Paper 1:  <b>"The Fused Multiply-Add and Global Atmospheric Models: A Distributional Investigation into a Surprising Correctness Scenario"</b>, Teo Price-Broncucia, Allison H. Baker, Michael Duda </td> </tr>
 
-<tr><td width="15">  </td> <td>2:40pm - 3:00pm:  Paper 2: <b>"Toward Automated Precision Tuning of Weather and Climate Models: A Case Study"</b>, Jackson Vanover, Alper Altuntas, Cindy Rubio-González </td> </tr>
+<tr><td width="15">  </td> <td>9:26am - 9:43am:  Paper 2: <b>"Toward Automated Precision Tuning of Weather and Climate Models: A Case Study"</b>, Jackson Vanover, Alper Altuntas, Cindy Rubio-González </td> </tr>
 
-<tr><td width="15">  </td> <td>2:40pm - 3:00pm:  Paper 3: <b>"Towards Verifying Exact Conditions for Implementations of Density Functional Approximations"</b>, Sameerah Helal, Zhe Tao, Cindy Rubio-González, Francois Gygi, Aditya V. Thakur </td> </tr>
+<tr><td width="15">  </td> <td>9:43am - 10am:  Paper 3: <b>"Towards Verifying Exact Conditions for Implementations of Density Functional Approximations"</b>, Sameerah Helal, Zhe Tao, Cindy Rubio-González, Francois Gygi, Aditya V. Thakur </td> </tr>
 </table>
 
 #### Break
 <table>
-<tr><td width="15">  </td> <td> 3:00pm - 3:30pm:  Break </td> </tr>
+<tr><td width="15">  </td> <td> 10am - 10:30am:  Break </td> </tr>
 </table>
 
 #### Reproducibility and Portability (Chair: TBD)
 <table>
 
-<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 4: <b>"Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications"</b>, Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Oscar Hernandez, Mark Coletti, Ada Sedova </td> </tr>
+<tr><td width="15">  </td> <td>10:30am - 10:47am:  Paper 4: <b>"Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications"</b>, Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Oscar Hernandez, Mark Coletti, Ada Sedova </td> </tr>
 
-<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 5: <b>"Toward Automated Detection of Portability Bugs in Kokkos Parallel Programs"</b>, Vivek KaleHanru Yan, Shyamali Mukherjee, Jackson Mayo, Keita Teranishi, Richard Rutledge, Alessandro Orso </td> </tr>
+<tr><td width="15">  </td> <td>10:47am - 11:04am:  Paper 5: <b>"Toward Automated Detection of Portability Bugs in Kokkos Parallel Programs"</b>, Vivek KaleHanru Yan, Shyamali Mukherjee, Jackson Mayo, Keita Teranishi, Richard Rutledge, Alessandro Orso </td> </tr>
 </table>
 
 #### OpenMP Correctness (Chair: TBD)
 <table>
-<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 6: <b>"Facilitating Bug Detection for OpenMP Offloading Applications"</b>, Lechen Yu, Feiyang Jin, Joachim Jenke, Vivek Sarkar</td> </tr>
+<tr><td width="15">  </td> <td>11:04am - 11:21am:  Paper 6: <b>"Facilitating Bug Detection for OpenMP Offloading Applications"</b>, Lechen Yu, Feiyang Jin, Joachim Jenke, Vivek Sarkar</td> </tr>
 
-<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 7: <b>"ompTest – Unit Testing with OMPT"</b>, Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman </td> </tr>
+<tr><td width="15">  </td> <td>11:21am - 11:38am:  Paper 7: <b>"ompTest – Unit Testing with OMPT"</b>, Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman </td> </tr>
 </table>
 
 #### Data Races (Chair: TBD)
 <table>
-<tr><td width="15">  </td> <td>3:30pm - 3:50pm:  Paper 8: <b>"Compiler-Aided Correctness Checking of CUDA-Aware MPI Applications"</b>, Alexander Hück, Tim Ziegler, Simon Schwitanski, Joachim Jenke, Christian Bischof</td> </tr>
+<tr><td width="15">  </td> <td>11:38am - 11:55am:  Paper 8: <b>"Compiler-Aided Correctness Checking of CUDA-Aware MPI Applications"</b>, Alexander Hück, Tim Ziegler, Simon Schwitanski, Joachim Jenke, Christian Bischof</td> </tr>
 
-<tr><td width="15">  </td> <td>3:50pm - 4:10pm:  Paper 9: <b>"Taskgrind: Heavyweight Dynamic Binary Instrumentation for Parallel Programs Analysis"</b>, Romain Pereira, George Stelle, Patrick Carribault</td> </tr>
+<tr><td width="15">  </td> <td>11:55am - 12:12pm:  Paper 9: <b>"Taskgrind: Heavyweight Dynamic Binary Instrumentation for Parallel Programs Analysis"</b>, Romain Pereira, George Stelle, Patrick Carribault</td> </tr>
 </table>
 
 
 #### HPC Bugs Fest - Short Papers (Chair: TBD)
 <table>
-<tr><td width="15">  </td> <td>4:30pm - 4:42pm:  Paper 1: <b>"Designing Quality MPI Correctness Benchmarks: Insights and Metrics"</b>,
+<tr><td width="15">  </td> <td>12:12pm - 12:18pm:  Paper 1: <b>"Designing Quality MPI Correctness Benchmarks: Insights and Metrics"</b>,
        Tim Jammer, Simon Schwitanski, Emmanuelle Saillard, Alexander Hück, Joachim Jenke, Radjasouria Vinayagame, Christian Bischof</td> </tr>
 
-<tr><td width="15">  </td> <td>4:42pm - 4:54pm:  Paper 2: <b>"Correctness Checking of MPI+OpenMP Applications Using Vector Clocks in MUST"</b>,
+<tr><td width="15">  </td> <td>12:18pm - 12:24pm:  Paper 2: <b>"Correctness Checking of MPI+OpenMP Applications Using Vector Clocks in MUST"</b>,
       Cornelius Pätzold, Simon Schwitanski, Joachim Jenke, Felix Tomski, Matthias S. Müller</td> </tr>
 
-<tr><td width="15">  </td> <td>4:54pm - 5:06pm:  Paper 3: <b>"OMPTBench – OpenMP Tool Interface Conformance Testing"</b>,
+<tr><td width="15">  </td> <td>12:24pm - 12:30pm:  Paper 3: <b>"OMPTBench – OpenMP Tool Interface Conformance Testing"</b>,
       Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman</td> </tr>
 </table>
 
