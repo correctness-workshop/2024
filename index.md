@@ -197,22 +197,16 @@ All time zones are AOE.
 </table>
 
 
-#### HPC Bugs Fest - Short Papers (Chair: Emmanuelle Saillard)
+#### HPC Bugs Fest - Short Papers (Chair: TBD)
 <table>
-<tr><td width="15">  </td> <td>4:30pm - 4:42pm:  Paper 1: <b>"Towards Correctness Checking of MPI Partitioned Communication in MUST"</b>,
-       Simon Schwitanski, Niko Sakic, Joachim Jenke, Felix Tomski, Marc-André Hermanns</td> </tr>
+<tr><td width="15">  </td> <td>4:30pm - 4:42pm:  Paper 1: <b>"Designing Quality MPI Correctness Benchmarks: Insights and Metrics"</b>,
+       Tim Jammer, Simon Schwitanski, Emmanuelle Saillard, Alexander Hück, Joachim Jenke, Radjasouria Vinayagame, Christian Bischof</td> </tr>
 
-<tr><td width="15">  </td> <td>4:42pm - 4:54pm:  Paper 2: <b>"Adding Microbenchmarks with SIMD Data Race to DataRaceBench"</b>,
-      Joachim Jenke, Kaloyan Ignatov, Simon Schwitanski</td> </tr>
+<tr><td width="15">  </td> <td>4:42pm - 4:54pm:  Paper 2: <b>"Correctness Checking of MPI+OpenMP Applications Using Vector Clocks in MUST"</b>,
+      Cornelius Pätzold, Simon Schwitanski, Joachim Jenke, Felix Tomski, Matthias S. Müller</td> </tr>
 
-<tr><td width="15">  </td> <td>4:54pm - 5:06pm:  Paper 3: <b>"Investigating the Real-World Applicability of MPI Correctness Benchmarks"</b>,
-      Alexander Hück, Tim Jammer, Joachim Jenke, Christian Bischof</td> </tr>
-
-<tr><td width="15">  </td> <td>5:06pm - 5:18pm:  Paper 4: <b>"Improve and stabilize classification results of DataRaceBench"</b>,
-      Joachim Jenke, Simon Schwitanski</td> </tr>
-
-<tr><td width="15">  </td> <td>5:18pm - 5:30pm:  Paper 5: <b>"Highlighting PARCOACH Improvements on MBI"</b>,
-      Philippe Virouleau, Emmanuelle Saillard, Marc Sergent, Pierre Lemarinier</td> </tr>
+<tr><td width="15">  </td> <td>4:54pm - 5:06pm:  Paper 3: <b>"OMPTBench – OpenMP Tool Interface Conformance Testing"</b>,
+      Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman</td> </tr>
 </table>
 
 ---
