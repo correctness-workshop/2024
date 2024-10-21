@@ -197,7 +197,7 @@ All time zones are AOE.
 </table>
 
 
-#### HPC Bugs Fest - Short Papers (Chair: TBD)
+#### HPC Bugs Fest - Short Papers (Chair: Mihail Popov)
 <table>
 <tr><td width="15">  </td> <td>12:12pm - 12:18pm:  Paper 1: <b>"Designing Quality MPI Correctness Benchmarks: Insights and Metrics"</b>,
        Tim Jammer, Simon Schwitanski, Emmanuelle Saillard, Alexander Hück, Joachim Jenke, Radjasouria Vinayagame, Christian Bischof</td> </tr>
