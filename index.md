@@ -160,7 +160,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>9:am - 9:09am:  <b>Opening Remarks</b>, Ignacio Laguna, Cindy Rubio-González </td> </tr>
 </table>
 
-#### Numerical Correctness and Optimization (Chair: TBD)
+#### Numerical Correctness and Optimization (Chair: Ignacio Laguna)
 <table>
 <tr><td width="15">  </td> <td>9:09am - 9:26am:  Paper 1:  <b>"The Fused Multiply-Add and Global Atmospheric Models: A Distributional Investigation into a Surprising Correctness Scenario"</b>, Teo Price-Broncucia, Allison H. Baker, Michael Duda </td> </tr>
 
@@ -174,7 +174,7 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td> 10am - 10:30am:  Break </td> </tr>
 </table>
 
-#### Reproducibility and Portability (Chair: TBD)
+#### Reproducibility and Portability (Chair: Cindy Rubio-González)
 <table>
 
 <tr><td width="15">  </td> <td>10:30am - 10:47am:  Paper 4: <b>"Impacts of floating-point non-associativity on reproducibility for HPC and deep learning applications"</b>, Sanjif Shanmugavelu, Mathieu Taillefumier, Christopher Culver, Oscar Hernandez, Mark Coletti, Ada Sedova </td> </tr>
@@ -182,14 +182,14 @@ All time zones are AOE.
 <tr><td width="15">  </td> <td>10:47am - 11:04am:  Paper 5: <b>"Toward Automated Detection of Portability Bugs in Kokkos Parallel Programs"</b>, Vivek KaleHanru Yan, Shyamali Mukherjee, Jackson Mayo, Keita Teranishi, Richard Rutledge, Alessandro Orso </td> </tr>
 </table>
 
-#### OpenMP Correctness (Chair: TBD)
+#### OpenMP Correctness (Chair: Ignacio Laguna)
 <table>
 <tr><td width="15">  </td> <td>11:04am - 11:21am:  Paper 6: <b>"Facilitating Bug Detection for OpenMP Offloading Applications"</b>, Lechen Yu, Feiyang Jin, Joachim Jenke, Vivek Sarkar</td> </tr>
 
 <tr><td width="15">  </td> <td>11:21am - 11:38am:  Paper 7: <b>"ompTest – Unit Testing with OMPT"</b>, Jan-Patrick Lehr, Michael Halkenhäuser, Dhruva Chakrabarti, Saiyedul Islam, Dan Palermo, Ron Lieberman </td> </tr>
 </table>
 
-#### Data Races (Chair: TBD)
+#### Data Races (Chair: Cindy Rubio-González)
 <table>
 <tr><td width="15">  </td> <td>11:38am - 11:55am:  Paper 8: <b>"Compiler-Aided Correctness Checking of CUDA-Aware MPI Applications"</b>, Alexander Hück, Tim Ziegler, Simon Schwitanski, Joachim Jenke, Christian Bischof</td> </tr>
 
