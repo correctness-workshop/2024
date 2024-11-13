@@ -221,7 +221,7 @@ Only regular papers are eligible for the Best Paper Presentation Award (short pa
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
-Please address workshop questions to [Ignacio Laguna](ttps://lagunaresearch.org/) (ilaguna@llnl.gov) and/or [Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/) (crubio@ucdavis.edu).
+Please address workshop questions to [Ignacio Laguna](https://lagunaresearch.org/) (ilaguna@llnl.gov) and/or [Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/) (crubio@ucdavis.edu).
 
 ---
 ### <a class="anchor" name="previous">Previous Workshops</a>
