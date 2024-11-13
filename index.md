@@ -216,6 +216,8 @@ We are introducing this year the **Best Paper Presentation Award**. The goal is 
 
 A high-quality presentation should present clearly the correctness problem being addressed and its impact to scientific / HPC applications, and it should be easy to follow even for attendees that are not familiar with traditional correctness methods (formal methods, verification, testing, debugging, among others). Overall the presentation should make such methods and results more accessible to the general audience of the workshop and the SC community.
 
+Only regular papers are eligible for the Best Paper Presentation Award (short papers are not eligible).
+
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
