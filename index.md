@@ -218,6 +218,11 @@ A high-quality presentation should present clearly the correctness problem being
 
 Only regular papers are eligible for the Best Paper Presentation Award (short papers are not eligible).
 
+#### Winner
+The winner of the **Best Paper Presentation Award** is the paper "Compiler-Aided Correctness Checking of CUDA-Aware MPI Applications", co-authored by Alexander Hück, Tim Ziegler, Simon Schwitanski, Joachim Jenke, Christian Bischof. Congratulations!
+
+<img src="img/best_pres_2024.jpeg" alt="Award" />
+
 
 ---
 ###  <a class="anchor" name="contact">Contact Information</a>
